@@ -6,3 +6,5 @@ Basic Interfacing with FPGA board LEDs
 Combinational logic on the FPGA board
 # Lab3 
 7 segment display interfacing 
+# Helping Material
+https://web.mit.edu/6.111/volume2/www/f2019/handouts/labs/lab2_19/index.html
