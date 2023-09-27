@@ -8,3 +8,4 @@ Combinational logic on the FPGA board
 7 segment display interfacing 
 # Helping Material
 https://web.mit.edu/6.111/volume2/www/f2019/handouts/labs/lab2_19/index.html
+https://www.imm.dtu.dk/~masca/chisel-book.pdf
